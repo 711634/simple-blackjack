@@ -39,3 +39,7 @@ How to Play:
    - Use buttons to 'Hit' or 'Stand' and see the results update dynamically.
 
 This project combines Python’s powerful backend with Flask's web framework to offer a fun and interactive Blackjack game experience. Enjoy playing!
+
+<img width="1794" alt="image" src="https://github.com/711634/simple-blackjack/assets/71150540/52bff4d4-9c1a-4882-8422-2e38423bc879">
+
+
